@@ -1,0 +1,40 @@
+Point: 48 
+ x: 337 y: 372 
+Point: 49 
+ x: 351 y: 372 
+Point: 50 
+ x: 362 y: 370 
+Point: 51 
+ x: 369 y: 374 
+Point: 52 
+ x: 376 y: 373 
+Point: 53 
+ x: 387 y: 378 
+Point: 54 
+ x: 400 y: 381 
+Point: 55 
+ x: 385 y: 392 
+Point: 56 
+ x: 373 y: 395 
+Point: 57 
+ x: 365 y: 394 
+Point: 58 
+ x: 357 y: 391 
+Point: 59 
+ x: 347 y: 384 
+Point: 60 
+ x: 342 y: 374 
+Point: 61 
+ x: 361 y: 378 
+Point: 62 
+ x: 368 y: 380 
+Point: 63 
+ x: 375 y: 380 
+Point: 64 
+ x: 394 y: 382 
+Point: 65 
+ x: 374 y: 381 
+Point: 66 
+ x: 367 y: 381 
+Point: 67 
+ x: 359 y: 379 

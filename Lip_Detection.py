@@ -68,6 +68,9 @@ while True:
                 cv2.line(frame_copy, (landmarks.part(67).x, landmarks.part(67).y), (landmarks.part(60).x,landmarks.part(60).y), (0,255,0), 2) 
             cv2.line(frame_copy, (landmarks.part(i).x, landmarks.part(i).y), (landmarks.part(j).x,landmarks.part(j).y), (0,255,0), 2)
 
+        #48-54 & 60 - 64
+        cv2.fillConvexPoly(frame_copy, np.array([res]), (255,153,153))
+       # cv2.fillConvexPoly(frame_copy, np.array([res[7:len(res)+1]]), (178,34,34))
         cv2.imwrite(img_location, frame_copy)
         break
 

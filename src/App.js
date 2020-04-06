@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
 
-      <FileUpload/>
+      <h3>AR App</h3>
     </div>
   );
 }
